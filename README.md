@@ -15,12 +15,12 @@ p {
 <body>
 
 
-# Roll the Dice ! ![Alt Text](/assets/dices-9017_256.gif)
+# Roll the Dice ! ![Alt Text](dices-9017_256.gif)
 
 
 Presenting to you, Shayann &amp; Fiona's Hackathon Game! 
 
-![cheering](/assets/Cheering.JPG)
+![cheering](Cheering.JPG)
 
 
 Win against the computer in a game of roll the dice as you climb up a set of ladders or side down the back of a googly eyed snake! 
@@ -40,11 +40,11 @@ Once you have your number, your position on the board will update accordingly.
 - Now it's the computer's turn!
 - Rinse and repeat till you or the computer reaches level 100!
 
-![Snakes and Ladders](/assets/snakes%20and%20ladders.jpg)
+![Snakes and Ladders](snakes%20and%20ladders.jpg)
 
 
 Now, are you luckier than a computer?
 
-![cheering](/assets/Human%20vs%20Comp.JPG)
+![cheering](Human%20vs%20Comp.JPG)
 
 
