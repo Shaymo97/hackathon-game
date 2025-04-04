@@ -1,20 +1,3 @@
-// <style>
-//r { color: Red }
-//y { color: Yellow }
-//g { color: Green }
-//</style>
-
-//<head>
-//<style>
-//body 
-//p {
-//  font-size: 20px;
-//}
-//</style>
-//</head>
-//<body>
-
-
 # Roll the Dice ! ![Alt Text](dices-9017_256.gif)
 
 
