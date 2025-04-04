@@ -10,7 +10,7 @@ let userScore = 0
 let computerScore = 0
 
 while(userScore < 100 && computerScore < 100){
-    console.log(`----------------------------------------`);
+    console.log('--------------------------------------');
     let userMove = prompt(`Press enter to roll your dice `)
     let userRoll = Math.ceil(Math.random() * 5)
     let computerRoll = Math.ceil(Math.random() * 5)
