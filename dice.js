@@ -92,7 +92,7 @@ if (userScore === 38) {
     userScore -= 22
     console.log(`\x1b[31m%s\x1b[0m`,`You hit a snake! You slide back down to square ${userScore}`);
 } else if (userScore === 91) {
-    userScore += 18
+    userScore -= 18
     console.log(`\x1b[31m%s\x1b[0m`,`You hit a snake! You slide back down to square ${userScore}`);
 } else if (userScore === 97) {
     userScore -= 37
@@ -113,7 +113,7 @@ if (computerScore === 38) {
     computerScore -= 22
     console.log(`\x1b[31m%s\x1b[0m`,`The computer hit a snake! The computer slides back down to square ${computerScore}`);
 } else if (computerScore === 91) {
-    computerScore += 18
+    computerScore -= 18
     console.log(`\x1b[31m%s\x1b[0m`,`The computer hit a snake! The computer slides back down to square ${computerScore}`);
 } else if (computerScore === 97) {
     computerScore -= 37
